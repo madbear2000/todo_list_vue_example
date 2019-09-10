@@ -28,4 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+### Using axios for http requests
+```
 npm i axios
+```
