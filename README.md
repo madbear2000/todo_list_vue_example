@@ -1,4 +1,9 @@
-# todo
+# Todo List in Vue.
+
+This is a sample project to learn Vue.js  
+There is 2 branchs within this project
+- stage1: This is about creating a sample application without any http requests or routeing.
+- stage2: Extends from stage1 and includes http requests and routeing using axios and vue-router.
 
 ## Project setup
 ```
